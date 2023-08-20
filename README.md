@@ -45,12 +45,14 @@
 
 
   ``9. Changes to the Terms``
-  > 9.1. We may update these terms and conditions from time to time without prior notice.\n
+  > 9.1. We may update these terms and conditions from time to time without prior notice.
+
   ``10. Shown Images``
   > 10.1. we do not own any images
   > The bot doesn't own any of the used image resources.
   > Images are handpicked from trusted users or by the creator myself.
-  > If bad images are passed through, you can report them\n
+  > If bad images are passed through, you can report them
+
 ``11. Contact``
   > 11.1. If you have any questions or concerns regarding these terms and conditions or the usage of Jr. Kelly, you can reach us on our Discord server at https://discord.com/invite/Tvv4UtFcdR
 
