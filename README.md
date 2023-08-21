@@ -10,7 +10,7 @@
 ``2. Data Collection and Privacy``
 
   > 2.1. Jr. Kelly may collect certain data during its usage, including but not limited to server information, command usage, errors, and reported images.
-  > 2.2 Danime will not sell, trade, or rent Users personal identification to anyone, data to be public may only include collective data such as most searched terms, etc. Any data leading to an individual won't be known to public.
+  > 2.2 Jr. Kelly will not sell, trade, or rent Users personal identification to anyone, data to be public may only include collective data such as most searched terms, etc. Any data leading to an individual won't be known to public.
   > 2.3. All data collected by Jr. Kelly is handled in accordance with our Privacy Policy.
 
  `` 3. Server and Command Data``
